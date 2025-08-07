@@ -89,4 +89,4 @@ This app uses [MVVM(Model View View-Model)](https://developer.android.com/topic/
 
 
 ## Contact 📞
-If you need any help, you can connect with me [here]([https://www.linkedin.com/in/aritra-das-/](https://www.linkedin.com/in/shreyas-arbale-11047b238/)).
+If you need any help, you can connect with me [here](https://www.linkedin.com/in/shreyas-arbale-11047b238/).
